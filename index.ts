@@ -1,3 +1,3 @@
-const foodList = require('./food.json');
+import food from './food.json';
 
-console.log(foodList);
+console.log(food);
