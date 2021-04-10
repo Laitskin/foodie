@@ -1,2 +1,2 @@
-import food from './food.json';
-console.log(food);
+var foodList = require('./food.json');
+console.log(foodList);
