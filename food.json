@@ -1,0 +1,18 @@
+{
+  "food": [
+    {
+      "id": 0,
+      "name": "Cheeseburger",
+      "calories": 303.0,
+      "recipe": "https://www.youtube.com/watch?v=L66PzgUzIl0",
+      "tags": ["fast food", "meat"]
+    },
+    {
+      "id": 0,
+      "name": "Caesar Salad",
+      "calories": 44.0,
+      "recipe": "https://natashaskitchen.com/caesar-salad-recipe/",
+      "tags": ["healthy", "vegetarian"]
+    }
+  ]
+}
